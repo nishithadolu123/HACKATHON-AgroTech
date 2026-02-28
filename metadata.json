@@ -1,0 +1,7 @@
+{
+  "name": "PlantCare AI",
+  "description": "Advanced AI-powered plant disease detection and care assistant. Upload leaf images to identify diseases and get expert remedies.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
